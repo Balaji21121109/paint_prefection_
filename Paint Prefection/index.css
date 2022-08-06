@@ -1,0 +1,534 @@
+#nav{
+    display: flex;
+    width: 100%;
+    height: 50px;
+
+    background-color: #2D394B;
+    color: #7FC9F5
+}
+#nav p{
+    margin-left: 70px;
+}
+#nav2{
+    width: 100%;
+    height: 100px;
+    background-color: #2094FB;
+    display: flex ;
+    
+}
+.nav_img{
+   height: 40%;
+    margin-left: 7%;
+    margin-top: 20px;
+    width: 20%;
+}
+#nav_box{
+
+    height: 100%;
+    width: 100%;
+    float: left;
+    display: flex;
+    margin-left: 200px;
+}
+.location{
+    
+    width: 30%;
+   margin-left: 20px;
+   display: flex;
+}
+.location_img{
+    height: 50%;
+    margin-top: 10%;
+    border-radius: 100%;
+    
+}
+.vertical {
+            height: 50%;
+            border-right: 1px solid #fbfcfb;
+        margin-top: 10%;
+        
+           margin-left: 5%;
+            
+        }
+        .vertical_p{
+            margin-left: 5%;
+            margin-top: 15%;
+            color: white;
+            font-size: 16px ;
+        }
+        .verti_pdiv{
+        
+            width: 100%;
+        }
+        #nav3{
+            border: 1px solid white;
+            height: 80px;
+        
+            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        }
+    .form_nav{
+        display: flex;
+    
+        margin-top: 20px;
+        height: 40px;
+    }
+    .nav_btn{
+        margin-left: 20px;
+        font-size: 16px;
+        background-color: white;
+        border: 2px solid white;
+        color: #0178ED;
+    }
+    #n_btn{
+        margin-left: 40%;
+        border-radius: 10px;
+        color: white;
+        font-size: 16px;
+        height: 110%;
+        border: 2px solid  #0178ED;
+        
+        background-color: #0178ED;
+    }
+
+    #Container{
+        
+        
+    
+    }
+    #main{
+        background-image: url("https://kamleshyadav.com/templatemonster-html/penter/assets/images/bg4.jpg");
+        height: 700px;
+        width: 100%;
+        background-size: 100% 100%;
+        border: 1px solid white;
+    
+    }
+    #m_form{
+        
+    
+        width: 80%;
+        height: 100%;
+
+    }
+    .m_h1{
+        margin-left: 10%;
+        color: #0178ED;
+        font-size: 70px;
+        margin-top: 20%;
+        
+    }
+    #m_p{
+        font-size: 26px;
+        color: black;
+    }
+    #m_btn{
+        margin-left: 10%;
+        background-color: #2094FB;
+        height: 50px;
+        width: 20%;
+        font-size: 20px;
+        color: white;
+        border-radius: 10px;
+        border: 2px solid #2094FB;
+    }
+    #Choose{
+        text-align: center;
+    }
+    #cho{
+    margin-left: 30%;
+       }
+    #choo{
+        display: flex;
+        height: 100px;
+    }
+    
+    #c_img{
+        height: 110%;
+        margin-left: 200px;
+          width: 100%;        
+    }
+    #blocks{
+        
+        margin-top: 5%;
+        height: 500px;
+    }
+    #mid{
+    
+        height: 90%;
+        width: 80%;
+        margin: auto;
+        margin-top: 25px;
+    }
+    #uper{
+        
+        height: 50%;
+        width: 100%;
+        display: flex;
+    }
+
+    #lower{
+        
+        height: 50%;
+        width: 100%;
+        display: flex;
+    }
+    .products{
+        
+        width: 35%;
+        margin-left: 5%;
+        text-align: center;
+        
+    
+    }
+    .products:hover{
+        background-color: #2094FB;
+    }
+    .products_img{
+        margin-top: 20px;
+    }
+    .products h1{
+        font-size: 26px;
+    }
+    #pro_imgg{
+        height: 100px;
+    }
+    #services{
+    
+        margin-top: 50px;
+        background-color: #F5F5F5;
+            text-align: center;
+
+    }
+    #ser_h1{
+        margin-top: 50px;
+    }
+    #regular{
+        
+        height: 500px;
+    }
+    .side_divs{
+        width: 90%;
+        height: 100%;
+        margin: auto;
+        display: flex;
+    }
+    .side1{
+        
+        width: 50%;
+        margin-left: 5%;
+    }
+    .reg{
+        
+        height: 120px;
+        margin-top: 30px;
+        display: flex;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    }
+    
+    .reg_img{
+        border-radius: 100%;
+        height: 70%;
+        margin-top: 10px;
+        margin-left: 10px;
+        
+    }
+    #reg_d{
+        
+        width: 80%;
+    }
+    #team{
+    
+        height: 700px;
+        text-align: center;
+    }
+    #team h2{
+        margin-top: 50px;
+        margin-left: 45%;
+    }
+    #d_img{
+        width: 100px;
+        height: 20%;
+        margin-left: 30%;
+    }
+    #team_cards{
+        width: 90%;
+        height: 500px;
+        margin: auto;
+        display: flex;
+    }
+    .team_box{
+    
+        width: 23%;
+        margin-left: 2%;
+        border-radius: 20px;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    }
+    .team_box h5{
+        margin-top: 20px;
+    }
+    .team_pp{
+        color: #2094FB;
+    }
+    .team_p{
+        color: rgb(71, 68, 68);
+    }
+    .t_img{
+        border-radius: 20px;
+    }
+    #price{
+        text-align: center;
+
+        width: 100%;
+        height: 800px;
+        background-color: #F5F5F5;
+    }
+    #price h2{
+        margin-top: 100px;
+    }
+    #single{
+        
+        width: 80%;
+        height: 600px;
+        margin: auto;
+        display: flex;
+    }
+    .sin_d{
+    
+        width: 30%;
+        height: 100%;
+        margin-left: 2%;
+        color: white;
+        
+
+    }
+    .sin_d h3{
+        margin-top: 20px;
+    }
+    .sin_b{
+        border: 1px solid #2374c4;
+        margin-top: 20px;
+        height: 100px;
+        width: 100px;
+        border-radius: 20px;
+        color: white;
+        background-color: #2374C4;
+
+    }
+    #sp{
+     font-size: 30px;
+    }
+    .sin_img{
+        width: 100%;
+        
+        
+        height: 200px;
+        background: linear-gradient(to top right , blue, red);
+        background-image: url("https://kamleshyadav.com/templatemonster-html/penter/assets/images/price01.jpg");
+    }
+
+    .sing_p{
+        color: black;
+        margin-top: 20px;
+    }
+    .si_btn{
+        background-color: #2094FB;
+        height: 50px;
+        width: 150px;
+        color: white;
+        border-radius: 20px;
+        border: 1px solid  #2094FB;
+    }
+    #test{
+    
+        width: 100%;
+        height: 600px;
+        margin-top: 50px;
+        text-align: center;
+    }
+    #test h3{
+        margin-top: 50px;
+    }
+    #test_main{
+    
+    height: 70%;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    }
+    .test_box{
+        border: 1px solid blue;
+        width: 44%;
+        margin-left: 5%;
+        height: 95%;
+        margin-top: 20px;
+        border-radius: 20px;
+        background-color: #2094FB;
+        color: white;
+    }
+    .test_img{
+        margin-top: 20px;
+    }
+    #projects{
+        
+    
+        text-align: center;
+        width: 100%;
+        background-color: #F5F5F5;
+    }
+    #projects h2{
+        margin-top: 100px;
+    }
+    #pro{
+        
+        width: 80%;
+        margin: auto;
+        height: 80%;
+    }
+    .pro1{
+        display: flex;
+        width: 100%;
+        height: 300px;
+        
+        margin-top: 20px;
+    }
+    .imgg1{
+        width: 60%;
+        height: 100%;
+
+        border-radius: 15px;
+
+    }
+    .imgg2{
+        height: 100%;
+        width: 40%;
+        margin-left: 50px;
+        border-radius: 15px;
+    }
+    .imgg3{
+        width: 31%;
+        border-radius: 20px;
+        margin-left: 20px;
+    }
+    .imgg4{
+        width: 65%;
+        margin-left: 20px;
+        border-radius: 20px;
+        height: 100%;
+        
+    }
+    #blog{
+        text-align: center;
+        height: 700px;
+        
+        background-size: 10%;
+        background-repeat: no-repeat;
+        background-image: url("https://kamleshyadav.com/templatemonster-html/penter/assets/images/right-shape.png");
+    }
+    #blog h3{
+        margin-top: 50px;
+    }
+    #box{
+        
+        display: flex;
+        height: 500px;
+    }
+   .boxes{
+
+
+    margin: auto;
+    height: 100%;
+    width: 30%;
+   }
+   .box_img{
+    width: 100%;
+    height: 50%;
+   }
+
+   .box_btn{
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    background-color: white;
+    color: blue;
+    border: #2094FB;
+    border-radius: 20px;
+   }
+   .boxes{
+    background-color: #2094FB;
+   }
+   #foot{
+
+    width: 100%;
+    height: 500px;
+    
+   }
+   
+   #foo{
+    width: 100%;
+    height: 400px;
+     
+    display: flex;
+    margin-top: 50px;
+    background-color: #2094FB;
+
+   }
+   .foot_box{
+    
+    width: 24%;
+    margin-left: 10px;
+    height: 70%;
+    margin-top: 40px;
+    text-align: center;
+    color: white;
+
+
+}
+.foot_box img{
+    margin-top: 50px;
+                    
+}
+.foot_box p{
+    margin-top: 30px;
+}
+
+#cam{
+    width: 100%;
+    height: 30%;
+
+    display: flex;
+    margin-top: 20px;
+}
+#cam_i{
+    transform: translateY(-20px);
+    border-radius: 20px;
+}
+.a{
+height: 100px;
+margin-top: 10px;
+    
+}
+.b{
+    border-radius: 20px;
+    transform: translateY(-40px);
+}
+.c{
+
+ display: flex;
+ height: 60px;
+ margin-top: 10px;
+}
+.c_img{
+    height: 20px;
+    margin-left: 20px;
+}
+.d{
+    
+    transform: translateY(20px);
+    
+}
+#last{
+    background-color: black;
+    height: 50px;
+    color: white;
+    text-align: center;
+}
